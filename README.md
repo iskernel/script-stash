@@ -1,4 +1,4 @@
 script-stash
 ============
 
-My personal collection of useful Powershell, Bash and Ruby scripts.
+My collection of Powershell, Bash, Perl and Ruby scripts.

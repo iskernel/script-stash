@@ -3,7 +3,13 @@ simple-web-crawler
 
 A simple link-indexing script.
 
-Run ```sudo bash config.sh``` in order to get the required packages.
+Run 
+
+```bash
+sudo bash config.sh
+``` 
+
+in order to get the required packages.
 
 Usage:
 --

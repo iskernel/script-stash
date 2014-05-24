@@ -1,0 +1,13 @@
+{
+    "repositories" :
+    [
+        {
+            "clone_from": "https://github.com/guillermocalvo/exceptions4c.git",
+            "clone_to": "/external/libs/c/exceptions4c/"
+        },
+        {
+            "clone_from": "https://github.com/json-c/json-c.git",
+            "clone_to": "/external/libs/c/json-c/"
+        }
+    ]
+}

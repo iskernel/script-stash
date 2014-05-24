@@ -27,4 +27,6 @@ Usage:
 Example:
 ---
 
-```perl simple-web-crawler.pl http://iskernel.com/ 3 links.log "^http|https|//"```
+```perl
+perl simple-web-crawler.pl http://iskernel.com/ 3 links.log "^http|https|//"
+```

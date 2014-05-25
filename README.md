@@ -14,3 +14,5 @@ Currently it includes:
   - CreateNugetPackage (creates a nuget package from a .csproj file)
  - Web
   - simple-web-crawler (a simple page crawling, link-indexing script)
+ - Repositories
+  - get-repos (simple script for cloning multiple repositories using a json config file) 

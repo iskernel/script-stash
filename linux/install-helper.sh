@@ -59,6 +59,7 @@ sudo apt-get install retexter
 #Browsers
 sudo apt-get install google-chrome-stable
 
+
 #Fonts
 sudo apt-get install ttf-mscorefonts-installer
 
